@@ -1,0 +1,3 @@
+extract macos m1 c++ api sdk header and lib
+from bloomberg website, include them here 
+and check if Rblpapi would build.
